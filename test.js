@@ -1,6 +1,6 @@
-const { getData, insertData, deleteData } = require("./index");
+const { getData, insertData, deleteData } = require("kamesh-custom-db");
 
-console.log(getData());
+//console.log(getData());
 
 //insertData({ _id: "3", employeeId: "1010103", name: "Test test" });
 
