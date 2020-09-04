@@ -24,9 +24,9 @@ There are three methods in this package:
 console.log(getData());
 
 #### Insert Data:
-//insertData({ _id: "3", employeeId: "1010103", name: "Test test" });
+insertData({ _id: "1", employeeId: "1010103", name: "Test test" });
 
 #### Delete Data:
-//deleteData("1");
+deleteData("1");
 
 -----------------------------------------------------------------------------
