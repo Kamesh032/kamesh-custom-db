@@ -16,9 +16,9 @@ There are three methods in this package:
 3. deleteData(_id)
 
 
-###### Usage:
-1. Create a file "db.json" with empty object.
-2. const { getData, insertData, deleteData } = require("kamesh-custom-db");
+###### Import:
+
+1. const { getData, insertData, deleteData } = require("kamesh-custom-db");
 
 #### Get Data:
 console.log(getData());
