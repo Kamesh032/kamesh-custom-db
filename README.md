@@ -1,5 +1,11 @@
 # kamesh-custom-db
 JSON based data storage system
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xfC841f6b436136f67FE8bFb4F45653bBce519176'
+quorum: 1
 
 
 
